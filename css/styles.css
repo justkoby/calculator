@@ -1,0 +1,48 @@
+.main-container {
+    font-family: helvetica;
+    font-size: 40px;
+    width: 950px;
+    height: 470px;
+}
+
+.row-1 {
+    background-color: #848695;
+    color: white;
+}
+
+.p-1 {
+    text-align: right;
+    font-size: 50px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.col-1 {
+    background-color: #e0e0e0;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.col-2 {
+    background-color: #e0e0e0;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.col-3 {
+    background-color: #e0e0e0;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+.col-4 {
+    background-color: #f5923d;
+    border: 1px solid grey;
+    text-align: center;
+    color: white;
+}
+
+p {
+    padding: 0px;
+    margin: 0px;
+}
